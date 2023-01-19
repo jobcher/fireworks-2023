@@ -1,0 +1,7 @@
+version: '3'
+services:
+  fireworks-2023:
+    build: .
+    ports:
+      - 80:80
+    
