@@ -4,7 +4,7 @@
 部署服务
 ```sh
 docker-compose up -d
-···
+```
 
 访问
 > http://localhost:80
